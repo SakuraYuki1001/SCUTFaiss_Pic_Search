@@ -23,4 +23,4 @@ pip install python-multipart
 # 项目运行
 #### 简单一句话：提取特征->构建索引->搜索图片
 ## ！！！依次运行.py文件！！！
-#### 【示例图片】(不重要\image.png)
+#### 不重要\image.png

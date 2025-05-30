@@ -140,4 +140,5 @@ with torch.no_grad():
     # 当前图片
     query_img = plt.imread( img_path )
     print('query_img.shape = ',img_path,query_img.shape)
+    # print(query_img)
     # visual_plot( ind,dis,topK,query_img)
